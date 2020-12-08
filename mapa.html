@@ -33,13 +33,8 @@
       console.log(filterCategories);
 
       var categories = [
-        { name: "Estações", icon: "radio",     url: "static-data/bibliotecas.json"  },
-        { name: "Transmissores",     icon: "trans",             url: "static-data/cinemas.json"  },
-        { name: "Galerias",    icon: "filter_frames",     url: "static-data/galerias.json"  },
-        { name: "Monumentos",  icon: "account_balance",   url: "static-data/monumentos.json"  },
-        { name: "Museus",      icon: "museum",            url: "static-data/museus.json"  },
-        { name: "Recintos",    icon: "workspaces_filled", url: "static-data/recintos.json"  },
-        { name: "Teatros",     icon: "theater_comedy",    url: "static-data/teatros.json"  },
+        { name: "Estações", icon: "radio",     url: "static-data/radios.json"  },
+        { name: "Transmissores",     icon: "trans",     url: "static-data/transmissores.json"  },
       ];
 
       var mymap = L.map('mapid').setView([41.14961, -8.61099], 13);
@@ -55,7 +50,7 @@
 
         // Make it work on file://
         if ( window.location.href.startsWith('file://') ) {
-          url = 'https://interruptorpt.github.io/ate-onde-chega-cultura/'+category.url;
+          url = 'https://opedromandrade.github.io/radios-pt/'+category.url;
         }
 
         const points = await fetch(url).then(r => r.json());
