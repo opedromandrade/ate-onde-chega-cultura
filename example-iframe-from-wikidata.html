@@ -6,24 +6,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Título da página -->
-  <title>Bibliotecas</title>
+  <title>Rádios</title>
 </head>
 
 <body>
   <div class="container-fluid px-lg-5 pt-5 pb-5">
     <div class="row mx-lg-n5">
       <div class="col-sm px-lg-5">
-        <h3>Lista e mapa das Bibliotecas em Portugal</h3>
+        <h3>Lista e mapa das Estações de Rádio em Portugal</h3>
         <p>
           <iframe id="wikidataframe" style="width: 100%; height: 62vh; border: none;" referrerpolicy="origin"
             sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
           <script>
             var wikidataQuery = `
-              # Map of libraries in Portugal
+              # Map of Radio Stations in Portugal
               #defaultView:Map
               SELECT ?item ?itemLabel ?geo WHERE {
-                ?item  wdt:P31/wdt:P279*  wd:Q7075.  # Item is an instance or subclass of Library (Q7075)
+                ?item  wdt:P31/wdt:P279*  wd:Q14350.  # Item is an instance or subclass of Radio Stations (Q14350)
                 ?item  wdt:P625           ?geo.      # Store item's geographic coordinates in the ?geo variable
                 ?item  wdt:P17            wd:Q45.    # Item's country is Portugal
 

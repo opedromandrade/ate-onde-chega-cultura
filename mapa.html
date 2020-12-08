@@ -33,11 +33,11 @@
       console.log(filterCategories);
 
       var categories = [
-        { name: "Estações de Rádio", icon: "radio",     url: "static-data/radios.json"  },
-        { name: "Transmissores",     icon: "transmissor",     url: "static-data/transmissores.json"  },
+        { name: "Rádios", icon: "radio",     url: "static-data/radios.json"  },
+        { name: "Transmissores",     icon: "transmitter",     url: "static-data/transmitter.json"  },
       ];
 
-      var mymap = L.map('mapid').setView([39.69414563558375, -8.13013162129961], 13);
+      var mymap = L.map('mapid').setView([39.69414563558375, -8.13013162129961], 10);
 
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             subdomains: ['a', 'b', 'c'],

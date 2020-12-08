@@ -1,0 +1,77 @@
+{
+    "head": {
+        "vars": [
+            "item",
+            "itemLabel",
+            "geo"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.199036072 38.81185777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q103961041"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor da Serra da Amoreira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.203755697 38.823550022)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q103962139"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor da Serra de Montemor",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.899999209 38.567155908)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104009554"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor de Palmela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.170327137 38.676574722)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104010261"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor do Pragal",
+                    "xml:lang": "pt"
+                }
+            }
+        ]
+    }
+}
