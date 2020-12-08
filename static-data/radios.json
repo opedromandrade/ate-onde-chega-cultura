@@ -3,7 +3,8 @@
         "vars": [
             "item",
             "itemLabel",
-            "geo"
+            "geo",
+            "web"
         ]
     },
     "results": {
@@ -22,6 +23,10 @@
                     "type": "literal",
                     "value": "Antena 1",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "http://www.rtp.pt/antena1/"
                 }
             },
             {
@@ -38,6 +43,10 @@
                     "type": "literal",
                     "value": "Antena 2",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "http://www.rtp.pt/antena2/"
                 }
             },
             {
@@ -54,6 +63,10 @@
                     "type": "literal",
                     "value": "Antena 3",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "http://www.rtp.pt/antena3/"
                 }
             },
             {
@@ -70,6 +83,10 @@
                     "type": "literal",
                     "value": "Esta\u00e7\u00e3o Orbital",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "https://www.orbital.pt/"
                 }
             },
             {
@@ -86,6 +103,10 @@
                     "type": "literal",
                     "value": "Horizonte FM",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "https://www.horizontefm.pt"
                 }
             },
             {
@@ -102,22 +123,10 @@
                     "type": "literal",
                     "value": "Kiss FM (Portugal)",
                     "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.14763876 38.731656356)"
                 },
-                "item": {
+                "web": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10365550"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "R\u00e1dio Am\u00e1lia",
-                    "xml:lang": "pt"
+                    "value": "http://kissfm.pt"
                 }
             },
             {
@@ -134,6 +143,10 @@
                     "type": "literal",
                     "value": "R\u00e1dio Oxig\u00e9nio",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "https://www.oxigenio.fm"
                 }
             },
             {
@@ -150,6 +163,10 @@
                     "type": "literal",
                     "value": "R\u00e1dio Radar",
                     "xml:lang": "pt"
+                },
+                "web": {
+                    "type": "uri",
+                    "value": "https://radarlisboa.fm"
                 }
             }
         ]
