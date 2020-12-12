@@ -1,6 +1,6 @@
 # Rádios em Portugal
 
-## O projeto
+## O projecto
 
 Pretende-se traduzir para um modo mais perceptivo a localização das estações de Rádio que emitem em espectro hertziano, bem como os demais transmissores, em território nacional Português.
 
@@ -8,11 +8,11 @@ Pretende-se traduzir para um modo mais perceptivo a localização das estações
 
 Segundo a UNESCO, que instituiu o dia mundial da rádio a 13 de Fevereiro, a rádio é e deverá ser um medium que celebre a diversidade e liberdade de expressão humanas. A rádio desde a sua invenção, tem um papel único na divisão de conteúdo de variada ordem e que sempre acompanhou as maiores transformações sociais e culturais do séc. XX.
 
-A rádio tem ainda papel fundamental na redução de diferentes assimetrias do nosso país, particularmente entre o interior e litoral, com destaque para a afirmação local e regional dos diferentes trejeitos, maneirismo, culturas que enriquecem o nosso território.
+A rádio tem ainda papel fundamental na redução de assimetrias do nosso país, particularmente entre o interior e litoral, com destaque para a afirmação local e regional dos diferentes trejeitos, maneirismo, culturas que enriquecem o nosso território.
 
 Entender a localização das estações de rádio e postos emissores, poderá ajudar a apontar pistas para se perceber qual o alcance do medium no território, quais as dificuldades e desafios que pode enfrentar, e quais as potencialidades num mundo altamente dependente da Internet, por exemplo em casos como as catástrofes naturais.
 
-Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista](https://pt.wikipedia.org/wiki/DX#Dexismo), a descobrir frequências nunca antes ouvidas.
+Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista](https://pt.wikipedia.org/wiki/DX#Dexismo), a descobrir estações nunca antes escutdas.
 
 ### O que se pretende mapear?
 
@@ -23,16 +23,18 @@ Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista
 
 A ideia do [radios-pt](https://opedromandrade.github.io/radios-pt) surgiu após o conhecimento de um outro projecto comunitário do [Interruptor](https://interruptor.pt/) que criou um mapa de visualização de todos os equipamentos culturas em Portugal. Podem vê-lo, e recomenda-se que o façam, [aqui](https://github.com/InterruptorPt/ate-onde-chega-cultura).
 
-Surgiu ainda após ver o trabalho meritório do Mundo da Rádio, que constitui um património inigualável de conhecimento e partilha de informação radiofónica em Portugal.
+Surgiu ainda após ver o trabalho meritório do [Mundo da Rádio](http://mundodaradio.com/), que constitui um património inigualável de conhecimento e partilha de informação radiofónica em Portugal.
 
-É possível ter acesso ao mapa por meio deste [link](https://opedromandrade.github.io/radios-pt/mapa)
+É possível ter acesso ao mapa através do seguinte [link](https://opedromandrade.github.io/radios-pt/mapa)
 
 ## Como funciona
 Os pontos indicados no mapa, refletem a informação contida na base de dados livre [WikiData](https://www.wikidata.org/).
 
+Para obter apenas alguns dos dados presentes na [WikiData](https://www.wikidata.org/) basta clicar [aqui](https://opedromandrade.github.io/radios-pt/query-exemplo-tabela-wikidata).
+
 ## Contribuir
 
-Este é um projecto aberto a colaborações quer de código quer através de actualização de informação, desde que seja aceite a aceitação da **[licença](LICENSE)** associada e do **[Código de Conduta](code_of_conduct.md)**.
+Este é um projecto aberto a colaborações quer de código quer através de actualização de informação, desde que seja aceite a **[licença](LICENSE)** associada e do **[Código de Conduta](code_of_conduct.md)**.
 
 ### Como contribuir?
 
@@ -48,6 +50,11 @@ Se ainda estás a dar os primeiros passos no Github, eis alguma documentação �
 
 #### Introduzindo informação
 Neste momento é a missão mais premente e importante: tentar introduzir na Wikipedia informação (ainda que pouca) e posteriormente mas sobretudo na WikiData, informação das demais rádios e transmissores associados.
+
+## Links úteis
+[O Mundo da Rádio](http://mundodaradio.com/)
+[Forum do Mundo da Rádio](http://www.mundodaradio.org/forum)
+[Rádios portuguesas na Wikipedia](https://pt.wikipedia.org/wiki/Categoria:Esta%C3%A7%C3%B5es_de_r%C3%A1dio_de_Portugal)
 
 ## Licença
 
