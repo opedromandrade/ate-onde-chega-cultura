@@ -113,6 +113,26 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.978624 39.552808)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q19608793"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cister FM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://cister.fm/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1064506 38.791631714)"
                 },
                 "item": {
@@ -207,6 +227,26 @@
                 "webLabel": {
                     "type": "literal",
                     "value": "http://rfm.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.2732466 40.5333652)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10365549"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Altitude",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.altitude.fm/"
                 }
             },
             {
@@ -353,6 +393,26 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.421110286 40.209785461)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3055074"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Universidade de Coimbra",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.ruc.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.865667 38.015935)"
                 },
                 "item": {
@@ -367,6 +427,26 @@
                 "webLabel": {
                     "type": "literal",
                     "value": "http://www.vozdaplanicie.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.3309252 38.9395201)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q24293067"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio do Concelho de Mafra",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.rcmafra.pt/"
                 }
             },
             {
@@ -447,6 +527,26 @@
                 "webLabel": {
                     "type": "literal",
                     "value": "https://www.tsf.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1863286 38.7029554)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56350471"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Tropical FM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.tropicalfm.pt/"
                 }
             },
             {
