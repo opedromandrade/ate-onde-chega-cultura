@@ -4,7 +4,7 @@
             "item",
             "itemLabel",
             "geo",
-            "web"
+            "webLabel"
         ]
     },
     "results": {
@@ -24,8 +24,8 @@
                     "value": "Antena 1",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "http://www.rtp.pt/antena1/"
                 }
             },
@@ -44,8 +44,8 @@
                     "value": "Antena 2",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "http://www.rtp.pt/antena2/"
                 }
             },
@@ -64,9 +64,49 @@
                     "value": "Antena 3",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "http://www.rtp.pt/antena3/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.4386621 41.539363)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9617027"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antena Minho",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.antenaminho.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.156663315 38.727653404)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2972305"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cidade FM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.cidade.iol.pt/"
                 }
             },
             {
@@ -84,8 +124,8 @@
                     "value": "Esta\u00e7\u00e3o Orbital",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "https://www.orbital.pt/"
                 }
             },
@@ -104,8 +144,8 @@
                     "value": "Horizonte FM",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "https://www.horizontefm.pt"
                 }
             },
@@ -124,9 +164,109 @@
                     "value": "Kiss FM (Portugal)",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "http://kissfm.pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.156663315 38.727653404)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104099219"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "M80",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://m80.iol.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.204632938 38.74290815)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3415174"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "RFM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://rfm.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-27.225112682 38.656170614)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18483063"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Clube de Angra",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.rcangra.pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.156663315 38.727653404)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1814994"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Comercial",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.radiocomercial.iol.pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-27.242373349 38.662881633)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10365870"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Horizonte",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://horizonteacores.com"
                 }
             },
             {
@@ -144,8 +284,8 @@
                     "value": "R\u00e1dio Oxig\u00e9nio",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "https://www.oxigenio.fm"
                 }
             },
@@ -164,9 +304,169 @@
                     "value": "R\u00e1dio Radar",
                     "xml:lang": "pt"
                 },
-                "web": {
-                    "type": "uri",
+                "webLabel": {
+                    "type": "literal",
                     "value": "https://radarlisboa.fm"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.204632937 38.742908148)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1509626"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Renascen\u00e7a",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://rr.sapo.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.177422718 41.483747349)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10366144"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Terra Quente",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.terraquentefm.net/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.865667 38.015935)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10366215"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Voz da Plan\u00edcie",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.vozdaplanicie.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.156663315 38.727653404)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18485016"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Smooth FM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://smoothfm.iol.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.174660672 38.757186219)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2384927"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "TSF R\u00e1dio Not\u00edcias",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.tsf.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.174660672 38.757186219)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2384927"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "TSF R\u00e1dio Not\u00edcias",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://tsf.pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.174660672 38.757186219)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2384927"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "TSF R\u00e1dio Not\u00edcias",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://www.tsf.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.147811425 39.67452954)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18471034"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Vila de Rei FM",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "http://www.viladereifm.com"
                 }
             }
         ]

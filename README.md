@@ -1,33 +1,42 @@
-# Até onde chega a cultura?
+# Rádios em Portugal
 
 ## O projeto
 
-Estamos a criar um mapa dos equipamentos culturais em Portugal.
+Pretende-se traduzir para um modo mais perceptivo a localização das estações de Rádio que emitem em espectro hertziano, bem como os demais transmissores, em território nacional Português.
 
-[![mapa-exemplo](./assets/screenshots/screenshot-1.png)](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa)
+[![mapa-exemplo](./assets/screenshots/screenshot-1.png)](https://opedromandrade.github.io/radios-pt/mapa)
 
-Este é um projeto comunitário do [Interruptor](https://interruptor.pt/) inspirado na série *[Até onde chega a cultura?](https://interruptor.pt/podcasts/interruptor)*, que explora a distribuição geográfica de diversos equipamentos no nosso território para tentar perceber o alcance da cultura. Foi iniciado durante o [Hacktoberfest 2020](https://interruptor.pt/artigos/interruptor-x-hacktoberfest).
+Segundo a UNESCO, que instituiu o dia mundial da rádio a 13 de Fevereiro, a rádio é e deverá ser um medium que celebre a diversidade e liberdade de expressão humanas. A rádio desde a sua invenção, tem um papel único na divisão de conteúdo de variada ordem e que sempre acompanhou as maiores transformações sociais e culturais do séc. XX.
 
-Os contribuidores iniciais incluem membros de várias comunidades locais ligadas aos movimentos de cultura e software livres, nomeadamente: [Flutter](https://github.com/FlutterPortugal), [Python](https://python.pt/), [Ubuntu](https://ubuntu-pt.org/) e [Wikimedia](https://pt.wikimedia.org/wiki/Wikimedia_Portugal).
+A rádio tem ainda papel fundamental na redução de diferentes assimetrias do nosso país, particularmente entre o interior e litoral, com destaque para a afirmação local e regional dos diferentes trejeitos, maneirismo, culturas que enriquecem o nosso território.
 
-É possível ter acesso ao mapa por meio deste [link](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa).
+Entender a localização das estações de rádio e postos emissores, poderá ajudar a apontar pistas para se perceber qual o alcance do medium no território, quais as dificuldades e desafios que pode enfrentar, e quais as potencialidades num mundo altamente dependente da Internet, por exemplo em casos como as catástrofes naturais.
 
-### O que queremos mapear?
+Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista](https://pt.wikipedia.org/wiki/DX#Dexismo), a descobrir frequências nunca antes ouvidas.
 
-- [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=bibliotecas)
-- [x] [teatros](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=teatros)
-- [x] [cinemas](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=cinemas)
-- [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=museus)
-- [x] [recintos de espectáculo](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=recintos)
-- [x] [galerias de arte](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=galerias)
-- [x] [monumentos](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa?categories=monumentos)
+### O que se pretende mapear?
+
+- [x] [Estações de Rádio](https://opedromandrade.github.io/radios-pt/mapa?categories=radios)
+- [x] [Transmissores](https://opedromandrade.github.io/radios-pt/mapa?categories=transmitter)
+
+### Como surgiu
+
+A ideia do [radios-pt](https://opedromandrade.github.io/radios-pt) surgiu após o conhecimento de um outro projecto comunitário do [Interruptor](https://interruptor.pt/) que criou um mapa de visualização de todos os equipamentos culturas em Portugal. Podem vê-lo, e recomenda-se que o façam, [aqui](https://github.com/InterruptorPt/ate-onde-chega-cultura).
+
+Surgiu ainda após ver o trabalho meritório do Mundo da Rádio, que constitui um património inigualável de conhecimento e partilha de informação radiofónica em Portugal.
+
+É possível ter acesso ao mapa por meio deste [link](https://opedromandrade.github.io/radios-pt/mapa)
+
+## Como funciona
+Os pontos indicados no mapa, refletem a informação contida na base de dados livre [WikiData](https://www.wikidata.org/).
 
 ## Contribuir
 
-Qualquer pessoa pode contribuir para este repositório. Contribuições para o projeto pressupõem a aceitação da **[licença](LICENSE)** associada e do nosso **[Código de Conduta](code_of_conduct.md)**.
+Este é um projecto aberto a colaborações quer de código quer através de actualização de informação, desde que seja aceite a aceitação da **[licença](LICENSE)** associada e do **[Código de Conduta](code_of_conduct.md)**.
 
 ### Como contribuir?
 
+#### Melhorando o código
 1. Faz um *[fork](https://github.com/InterruptorPt/ate-onde-chega-cultura/fork)* do repositório.
 2. Verifica se há algum *[issue](https://github.com/InterruptorPt/ate-onde-chega-cultura/issues)* aberto em que possas começar a ajudar.
 3. Faz um *pull request*.
@@ -36,6 +45,9 @@ Se ainda estás a dar os primeiros passos no Github, eis alguma documentação �
 
 - [Como fazer fork de um repositório](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 - [Como fazer um pull request](https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+#### Introduzindo informação
+Neste momento é a missão mais premente e importante: tentar introduzir na Wikipedia informação (ainda que pouca) e posteriormente mas sobretudo na WikiData, informação das demais rádios e transmissores associados.
 
 ## Licença
 
