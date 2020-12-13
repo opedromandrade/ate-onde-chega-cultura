@@ -12,7 +12,11 @@ A rádio tem ainda papel fundamental na redução de assimetrias do nosso país,
 
 Entender a localização das estações de rádio e postos emissores, poderá ajudar a apontar pistas para se perceber qual o alcance do medium no território, quais as dificuldades e desafios que pode enfrentar, e quais as potencialidades num mundo altamente dependente da Internet, por exemplo em casos como as catástrofes naturais.
 
-Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista](https://pt.wikipedia.org/wiki/DX#Dexismo), a descobrir estações nunca antes escutdas.
+Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista](https://pt.wikipedia.org/wiki/DX#Dexismo), a descobrir estações nunca antes escutadas.
+
+## Onde está o Mapa?
+
+É possível ter acesso ao mapa [radios-pt](https://opedromandrade.github.io/radios-pt) através do seguinte [link](https://opedromandrade.github.io/radios-pt/mapa)
 
 ### O que se pretende mapear?
 
@@ -21,11 +25,9 @@ Por outro lado, pretende ser mais um contributo para ajudar a comunidade [DXista
 
 ### Como surgiu
 
-A ideia do [radios-pt](https://opedromandrade.github.io/radios-pt) surgiu após o conhecimento de um outro projecto comunitário do [Interruptor](https://interruptor.pt/) que criou um mapa de visualização de todos os equipamentos culturas em Portugal. Podem vê-lo, e recomenda-se que o façam, [aqui](https://github.com/InterruptorPt/ate-onde-chega-cultura).
+A ideia do [radios-pt](https://opedromandrade.github.io/radios-pt) surgiu após o conhecimento de um outro projecto comunitário do [Interruptor](https://interruptor.pt/) que criou um mapa de visualização de todos os equipamentos culturais em Portugal. Podem vê-lo, e recomenda-se que o façam, [aqui](https://github.com/InterruptorPt/ate-onde-chega-cultura).
 
 Surgiu ainda após ver o trabalho meritório do [Mundo da Rádio](http://mundodaradio.com/), que constitui um património inigualável de conhecimento e partilha de informação radiofónica em Portugal.
-
-É possível ter acesso ao mapa através do seguinte [link](https://opedromandrade.github.io/radios-pt/mapa)
 
 ## Como funciona
 Os pontos indicados no mapa, refletem a informação contida na base de dados livre [WikiData](https://www.wikidata.org/).
