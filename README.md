@@ -54,9 +54,9 @@ Se ainda estás a dar os primeiros passos no Github, eis alguma documentação �
 Neste momento é a missão mais premente e importante: tentar introduzir na Wikipedia informação (ainda que pouca) e posteriormente mas sobretudo na WikiData, informação das demais rádios e transmissores associados.
 
 ## Links úteis
-[O Mundo da Rádio](http://mundodaradio.com/)
-[Forum do Mundo da Rádio](http://www.mundodaradio.org/forum)
-[Rádios portuguesas na Wikipedia](https://pt.wikipedia.org/wiki/Categoria:Esta%C3%A7%C3%B5es_de_r%C3%A1dio_de_Portugal)
+- [O Mundo da Rádio](http://mundodaradio.com/)
+- [Forum do Mundo da Rádio](http://www.mundodaradio.org/forum)
+- [Rádios portuguesas na Wikipedia](https://pt.wikipedia.org/wiki/Categoria:Esta%C3%A7%C3%B5es_de_r%C3%A1dio_de_Portugal)
 
 ## Licença
 
