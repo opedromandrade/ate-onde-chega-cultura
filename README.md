@@ -6,7 +6,7 @@ Pretende-se traduzir para um modo mais perceptivo a localização das estações
 
 [![mapa-exemplo](./assets/screenshots/screenshot-1.png)](https://opedromandrade.github.io/radios-pt/mapa)
 
-Segundo a UNESCO, que instituiu o dia mundial da rádio a 13 de Fevereiro, a rádio é e deverá ser um medium que celebre a diversidade e liberdade de expressão humanas. A rádio desde a sua invenção, tem um papel único na divisão de conteúdo de variada ordem e que sempre acompanhou as maiores transformações sociais e culturais do séc. XX.
+Segundo a UNESCO, que instituiu o dia mundial da rádio a 13 de Fevereiro, a rádio é e deverá ser um medium que celebre a diversidade e liberdade de expressão humanas. A rádio desde a sua invenção, tem um papel único na difusão de conteúdo de variada ordem e que sempre acompanhou as maiores transformações sociais e culturais do séc. XX.
 
 A rádio tem ainda papel fundamental na redução de assimetrias do nosso país, particularmente entre o interior e litoral, com destaque para a afirmação local e regional dos diferentes trejeitos, maneirismo, culturas que enriquecem o nosso território.
 
