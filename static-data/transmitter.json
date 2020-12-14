@@ -28,6 +28,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.7836902 32.7165411)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104179604"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor R\u00e1dio Zarco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.130145241 39.694860134)"
                 },
                 "item": {
@@ -37,6 +53,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Transmissor Serra da Melri\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.8674742 32.6499823)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104179568"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Transmissor da R\u00e1dio Jornal da Madeira",
                     "xml:lang": "pt"
                 }
             },
