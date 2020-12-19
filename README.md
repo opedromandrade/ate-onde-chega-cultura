@@ -2,9 +2,9 @@
 
 ## O projecto
 
-Pretende-se traduzir para um modo mais perceptivo a localização das estações de Rádio que emitem em espectro hertziano, bem como os demais transmissores, em território nacional Português.
+[![mapa-exemplo](./assets/screenshots/snapshott.png)](https://opedromandrade.github.io/radios-pt/mapa)
 
-[![mapa-exemplo](./assets/screenshots/screenshot-1.png)](https://opedromandrade.github.io/radios-pt/mapa)
+Pretende-se traduzir para um modo mais perceptivo a localização das estações de Rádio que emitem em espectro hertziano, bem como os demais transmissores, em território nacional Português.
 
 Segundo a UNESCO, que instituiu o dia mundial da rádio a 13 de Fevereiro, a rádio é e deverá ser um medium que celebre a diversidade e liberdade de expressão humanas. A rádio desde a sua invenção, tem um papel único na difusão de conteúdo de variada ordem e que sempre acompanhou as maiores transformações sociais e culturais do séc. XX.
 
